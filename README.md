@@ -1,1 +1,2 @@
-# FunnyGame
+1. run FunnyGame.exe
+   
